@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('../images/foto_ja.jpg');
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
+  color: brown;
+  font-weight: 900;
+  font-size: 200px;
+  text-shadow: white 3px 2px;
+}
