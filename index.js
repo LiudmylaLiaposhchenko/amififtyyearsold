@@ -1,4 +1,3 @@
-console.log('l');
 const now = dayjs();
 const fiftiethAnniversary = dayjs('2024-08-08');
 
