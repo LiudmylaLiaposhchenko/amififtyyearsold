@@ -3,7 +3,7 @@
 }
 
 body {
-  background-image: url('../foto_ja.jpg');
+  background-image: url('foto_ja.jpg');
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center top;
